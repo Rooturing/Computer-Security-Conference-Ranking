@@ -1,0 +1,53 @@
+Aanjhan Ranganathan, Northeastern University, USA
+Adam Doupe, Arizona State University, USA
+Adrian Dabrowski, SBA Research, Austria
+Adwait Nadkarni, William & Mary, USA
+Ahmad-Reza Sadeghi, Technische Universität Darmstadt, Germany
+Aurélien Francillon, EURECOM, France
+Bogdan Carbunar, Florida International University, USA
+Bradley Reaves, North Carolina State University, USA
+Christina Poepper, New York University Abu Dhabi, UAE
+Claudio Soriente, NEC Labs, Spain
+Collin Mulliner, Cruise Automation, USA
+Daphne Yao, Virginia Tech, USA
+David Barrera, Polytechnique Montreal, Canada
+Di Ma, University of Michigan-Dearborn, USA
+Fengwei Zhang, Wayne State University, USA
+Guevara Noubir, Northeastern University, USA
+Ivan Martinovic, Oxford University, UK
+Jens Schmitt, TU Kaiserslautern, Germany
+Jie Yang, Florida State University, USA
+Jun Han, National University of Singapore, Singapore
+Karim Eldefrawy, SRI International, USA
+Kasper Bonne, Rasmussen University of Oxford, UK
+Kevin Butler, University of Florida, USA
+Loukas Lazos, University of Arizona, USA
+Mathieu Cunche, INSA Lyon, France
+Mathy Vanhoef, New York University Abu Dhabi, UAE
+Matthias Hollick, Technical University Darmstadt, Germany
+Matthias Schunter, Intel Lab, Germany
+Mauro Conti, University of Padua, Italy
+Merve Sahin, SAP Security Research, France
+Michail Maniatakos, New York University Abu Dhabi, UAE
+Ming Li, University of Arizona, USA
+Nicola Laurenti, University of Padua, Italy
+Nils Ole, Tippenhauer Cispa / CISPA Helmholtz Center for Information Security, Germany
+Nitesh Saxena, University of Alabama at Birmingham, USA
+Panos Papadimitratos, KTH Royal Institute of Technology, Sweden
+Paolo Gasti, New York Institute of Technology, USA
+Patrick Tague, Carnegie Mellon University, USA
+Patrick Traynor, University of Florida, USA
+Ravishankar Borgaonkar, SINTEF Digital, USA
+Roberto Di Pietro, Hamad Bin Khalifa University, Qatar
+Rui Zhang, University of Delaware, USA
+Sneha Kasera, University of Utah, USA
+Sophia D’antoine, Trail of Bits, USA
+Vincent Lenders, Armasuisse, Switzerland
+Wenjing Lou, Virginia Tech, USA
+William Enck, NC State University, USA
+Yanchao Zhang, Arizona State University, USA
+Yanick Fratantonio, EURECOM, France
+Yier Jin, University of Florida, USA
+Yingying (Jennifer) Chen, Rutgers University, USA
+Yves Younan, Cisco Talos, Canada
+Zhenghao Zhang, Florida State University, USA

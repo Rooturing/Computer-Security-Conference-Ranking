@@ -1,0 +1,42 @@
+Magnus Almgren, Chalmers University of Technology, Sweden
+Elias Athanasopoulos, University of Cyprus, Cyprus
+Davide Balzarotti, Eurecom, France
+Sébastien Bardin, CEA LIST, France
+Gregory Blanc, Télécom SudParis, Institut Polytechnique de Paris, France
+Herbert Bos, Vrije Universiteit Amsterdam, Netherlands
+Juan Caballero, IMDEA Software Institute, Spain
+Lucas Davi, University of Duisburg-Essen, Germany
+Sven Dietrich, City University of New York, USA
+Ulrich Flegel, Infineon Technologies AG, Germany
+Aurélien Francillon, Eurecom, France
+Yanick Fratantonio, Eurecom, France
+Mariano Graziano, Cisco Talos, USA
+Daniel Gruss, Graz University of Technology, Austria
+Christophe Hauser, University of Southern California, USA
+Alexandros Kapravelos, North Carolina State University, USA
+Vasileios Kemerlis, Brown University, USA
+Erik van der Kouwe, Vrije Universiteit Amsterdam, Netherlands
+Christian Kreibich, Corelight, USA
+Anil Kurmus, IBM Research, Switzerland
+Pierre Laperdrix, CNRS - Lille University, France
+Pavel Laskov, University of Liechtenstein, Liechtenstein
+Martina Lindorfer, TU Wien, Austria
+Michael Meier, University of Bonn and Fraunhofer FKIE, Germany
+Marius Muench, Vrije Universiteit Amsterdam, Netherlands
+Nick Nikiforakis, Stony Brook University, USA
+Yossi Oren, Ben Gurion University, Israel
+Giancarlo Pelegrino, CISPA Helmholtz Center for Information Security, Germany
+Fabio Pierazzi, King’s College London, UK
+Michalis Polychronakis, Stony Brook University, USA
+Georgios Portokalidis, Stevens Institute of Technology, USA
+Thomas Schreck, Munich University of Applied Sciences, Germany
+Michael Schwarz, Graz University of Technology, Austria
+Deborah Shands, SRI International, USA
+Seungwon Shin, KAIST, Korea
+Yan Shoshitaishvili, Arizona State University, USA
+Asia Slowinska, IBM, Netherlands
+Gianluca Stringhini, Boston University, USA
+Juan Tapiador, Universidad Carlos III, Spain
+Sam Thomas, CentraleSupélec, France
+Mathy Vanhoef, New York University Abu Dhabi, USA
+Pierre-Antoine Vervier, Symantec Research Labs, USA

@@ -1,0 +1,18 @@
+ACM AsiaCCS.txt
+ACM CCS.txt
+ACM-CODASPY.txt
+ACM-SACMAT.txt
+ACM WiSec.txt
+ACNS.txt
+ACSAC.txt
+DIMVA.txt
+DSN.txt
+ESORICS.txt
+EuroS&P.txt
+ICICS.txt
+IEEE S&P.txt
+ISC.txt
+NDSS.txt
+PETS.txt
+RAID.txt
+Usenix Sec.txt

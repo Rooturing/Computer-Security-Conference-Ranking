@@ -1,0 +1,90 @@
+PROGRAM COMMITTEE 2019
+
+Isaac Agudo, University of Malaga, Spain
+Esma Aimeur, University of Montreal, Canada
+Todd R. Andel, University of South Alabama, United States
+Abdelmalek Benzekri, University of Toulouse, France
+Francesco Buccafurri, University of Reggio Calabria, Italy
+Lasaro Camargos, Federal University of Uberlândia, Brazil
+Jordi Castellà Roca, Universitat Rovira i Virgili, Spain
+David Chadwick, University of Kent, United Kingdom
+Nathan Clarke, Plymouth University, United Kingdom
+Marijke Coetzee, University of Johannesburg, South Africa
+Nora Cuppens-Boulahia, Université européene de Bretagne (UEB), France
+Jörg Daubert, TU Darmstadt, Germany
+Luca De Cicco, Politecnico di Bari, Italy
+José Maria de Fuentes, Carlos III University of Madrid, Spain
+Pavlos Efraimidis, Democritus University of Thrace, Greece
+Dominik Engel, Salzburg University of Applied Sciences, Austria
+Christian Engelmann, Oak Ridge National Laboratory, United States
+Aristide Fattori, Università degli Studi di Milano, Italy
+Hannes Federrath, University of Hamburg, Germany
+Christophe Feltus, Luxembourg Institute of Science and Technology, Luxembourg
+Umberto Ferraro Petrillo, Universitá degli studi di Roma – La Sapienza, Italy
+Mathias Fischer, University of Hamburg, Germany
+Steven Furnell, Plymouth University, United Kingdom
+Joaquin Garcia-Alfaro, Télécom SudParis, France
+Karl Goeschka, Vienna University of Technology, Austria
+Golden G Richard III, Louisiana State University
+Lorena Gonzalez-Manzano, Carlos III University of Madrid, Spain
+Dimitris Gritzalis, Athens University of Economics and Business, Greece
+Bogdan Groza, Politehnica University of Timisoara, Romania
+Sheikh Mahbub Habib, Continental AG, Germany
+Dominik Herrmann, University of Bamberg, Germany
+Martin Gilje Jaatun, University of Stavanger, Norway
+Jan Jürjens, TU Dortmund and Fraunhofer ISST, Germany
+Anatoli Kalysch, Friedrich-Alexander University Erlangen-Nuremberg, Germany
+Vasilis Katos, Bournemouth University, United Kingdom
+Sokratis K. Katsikas, NTNU: Norwegian University of Science and Technology, Norway; Open University of Cyprus, Cyprus
+Peter Kieseberg, St. Pölten University of Applied Sciences, Austria
+Ezzat Kirmani, St. Cloud State University, US
+Oksana Kulyk, ITU Copenhagen, Denmark
+Romain Laborde, University of Toulouse, France
+Costas Lambrinoudakis, University of Piraeus, Greece
+Brian Lee, Athlone Institute of Technology, Ireland
+Shujun Li, University of Kent, United Kingdom
+David Lillis, University College Dublin, Ireland
+Giovanni Livraga, Universita’ degli Studi di Milano, Italy
+Robert Luh, Institute of IT Security Research,  Austria
+Konstantinos Markantonakis, Royal Holloway and Bedford New College, UK
+Keith Martin, Royal Holloway, University of London, United Kingdom
+Barbara Masucci, University of Salerno, Italy
+Ioannis Mavridis, University of Macedonia, Greece
+Wojciech Mazurczyk, Warsaw University of Technology, Poland
+Francesco Mercaldo, University of Molise, Italy
+Mattia Monga, Universita` degli Studi di Milano, Italy
+Haralambos Mouratidis, University of Brighton, United Kingdom
+Thomas Nowey, Syskron Security, Germany
+Christoforos Ntantogian, University of Piraeus, Greece
+Jaehong Park, University of Alabama in Huntsville, United States
+Günther Pernul, University of Regensburg, Germany
+Stefanie Rinderle-Ma, Vienna University, Austria
+Domenico Rosaci, University of Reggio Calabria, Italy
+Michael Roßberg, TU Ilmenau, Germany
+Volker Roth, Freie Universität Berlin, Germany
+Giovanni Russello, University of Auckland, New Zealand
+Luis Enrique Sánchez Crespo, University of Castilla-la-Mancha, Spain
+Mark Scanlon, University College Dublin, Ireland
+Sebastian Schinzel, FH Münster, Germany
+Jörn-Marc Schmidt, Deutsche Bank, Germany
+Max Schuchard, University of Minnesota, United States
+Stefan Schulte, Vienna University of Technology, Austria
+Daniele Sgandurra, Royal Holloway, University of London, United Kingdom
+Jon A. Solworth, University of Illinois at Chicago, United States
+Jordi Soria-Comas, Universitat Rovira i Virgili, Spain
+Mark Strembeck, WU Vienna, Austria
+Jakub Szefer, Yale University, United States
+Oliver Theel, Carl von Ossietzky Universität Oldenburg, Germany
+Simon Tjoa, St. Pölten University of Applied Sciences, Austria
+Andreas Unterweger, Salzburg University of Applied Sciences, Austria
+Steven Van Acker, Chalmers University, Sweden
+Emmanouil Vasilomanolakis, Aalborg University, Denmark
+Umberto Villano, Universita’ del Sannio, Italy
+Corrado Aaron Visaggio, Univeristà del Sannio, Italy
+Xiao Wang, Carnegie Mellon University, United States
+Christos Xenakis, University of Piraeus, Greece
+Zonghua Zhang, IMT Lille Douai, Institue Mines-Télécom, France
+Nicola Zannone, Eindhoven University of Technology, Netherlands
+Antonella Santone, University of Molise, Italy
+Andrea Di Sorbo, University of Sannio, Italy
+Giorgio Giacinto, University of Cagliari, Italy

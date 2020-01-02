@@ -1,0 +1,107 @@
+Programme Committee
+Rose-Mharie Åhlfeldt, University of Skövde, Sweden
+Raja Naeem Akram, ISG-Smart Card Centre, Royal Holloway, University of London, UK
+Vijay Atluri, Rutgers University, USA
+Man Ho Au, The Hong Kong Polytechnic University, China
+Gergei Bana, University of Missouri, USA
+Joao Paulo Barraca, University of Aveiro, Portugal
+Pedro Brandão, University of Porto, Portugal
+Dagmar Brechlerova, Euromise Prague, Czech Republic
+Ricardo Chaves, IST / INESC-ID, Portugal
+Michal Choras, ITTI Ltd., Poland
+K P Chow, The University of Hong Kong, China
+Nathan Clarke, Centre for Security, Communication & Network Research, University of Plymouth, UK
+Miguel Correia, Universidade de Lisboa, Portugal
+Nora Cuppens-Boulahia, IMT Atlantique, France
+Paolo D’Arco, University di Salerno, Italy
+Ed Dawson, QUT, Research Director, Australia
+Sabrina De Capitani di Vimercati, Universita’ degli Studi di Milano, Italy
+Bart De Decker, Katholieke Universiteit Leuven, Belgium
+Vesna Dimitrova, FCSE, University Ss.Cyril and Methodius, Skopje, North Macedonia
+Nicola Dragoni, Technical University of Denmark, Denmark
+Nicolás Emilio Díaz Ferreyra, University of Duisburg-Essen, Germany
+Isao Echizen, National Institute of Informatics, Japan
+Simone Fischer-Hübner, Karlstad University, Sweden
+Sara Foresti, DI – Universita` degli Studi di Milano, Italy
+Steven Furnell, Plymouth University, UK
+Chaya Ganesh, Aarhus University, Denmark
+Hélder Gomes, Escola Superior de Tecnologia e Gestão de Águeda, Universidade de Aveiro, Portugal
+Jonas Hallberg, Swedish Defence Research Agency, Sweden
+Lucjan Hanzlik, Stanford University, USA
+Paul Haskell-Dowland, Edith Cowan University, Australia
+Karin Hedström, Swedish Business School, Örebro University, Sweden
+Julio Hernandez, School of Computing, UK
+Dominik Herrmann, University of Bamberg, Germany
+Xinyi Huang, Fujian Normal University, China
+Dieter Hutter, DFKI GmbH, Germany
+Pedro Inácio, Universidade da Beira Interior, Portugal
+Martin Gilje Jaatun, SINTEF Digital, Norway
+Wojciech Jamroga, University of Luxembourg, Luxembourg
+Lech Janczewski, The University of Auckland, New Zealand
+Christian Damsgaard Jensen, Technical University of Denmark, Denmark
+Allen Johnston, University of Alabama, USA
+Audun Josang, University of Oslo, Norway
+Jan Jürjens, Fraunhofer Institute for Software & Systems Engineering ISST and University of Koblenz-Landau, Germany
+Georgios Kambourakis, University of the Aegean, Greece
+Fredrik Karlsson, Örebro University, Sweden
+Dogan Kesdogan, Universität Regensburg, Germany
+Kwangjo Kim, Korea Advanced Institute of Science and Technology, South Korea
+Dongseong Kim, The University of Queensland, Australia
+Kamil Kluczniak, CISPA − Helmholtz Center for Information Security, Germany
+Andrea Kolberger, University of Applied Sciences Upper Austria, Austria
+Zbigniew Kotulski, Warsaw University of Technology, Poland
+Lukasz Krzywiecki, Wroclaw University of Technology, Poland
+Miroslaw Kutylowski, Wroclaw University of Science and Technology, Poland
+Heejo Lee, Korea University, South Korea
+Yingjiu Li, Singapore Management University, Singapur
+Maciej Liskiewicz, Inst. f. Theoretische Informatik, University Luebeck, Germany
+Luigi Logrippo, Université du Québec en Outaouais, Canada
+Javier Lopez, University of Malaga, Spain
+Suryadipta Majumdar, University at Albany – SUNY, USA
+Marian Margraf, Hochschule Darmstadt, Germany
+Fabio Martinelli, IIT-CNR, Italy
+Vashek Matyas, Masaryk University, Czech Republic
+Zlatogor Minchev, Institute of ICT, Bulgarian Academy of Sciences, Bulgaria
+Yuko Murayama, Tsuda College, Japan
+Maurizio Naldi, LUMSA Università Maria SS. Assunta di Roma, Italy
+Lili Nemec Zlatolas, University of Maribor, Faculty of Electrical Engineering and Computer Science, Slovenia
+Sergio Nunes, ISEG-School of Economics and Management, Portugal
+Balaji Palanisamy, University of Pittsburgh, USA
+Brajendra Panda, University of Arkansas, USA
+Sebastian Pape, Goethe University Frankfurt, Germany
+Stefano Paraboschi, Universita di Bergamo, Italy
+Miguel Pardal, Universidade de Lisboa, Lisbon
+Gilbert Peterson, US Air Force Institute of Technology, USA
+Raphael C.-W. Phan, Monash University, Australia
+António Pinto, ESTG, P.Porto, Portugal
+Rami Puzis, Ben Gurion University of the Negev, Israel
+Arun Raghuramu, Forescout Technologies Inc., USA
+Carlos Rieder, Isec AG, Czech Republic
+Juha Röning, University of Oulu, Finland
+Elham Rostami, Örebro University, Sweden
+Reyhaneh Safavi-Naini, University of Calgary, Canada
+Pierangela Samarati, Universita’ degli Studi di Milano, Italy
+Damien Sauveron, XLIM (UMR University of Limoges/CNRS 7252), France
+Ingrid Schaumüller-Bichl, Upper Austrian University of Applied Sciences Campus Hagenberg, Austria
+Jetzabel Maritza Serna Olvera, Universitat Politècnica de Catalunya, Spain
+Paria Shirani, Concordia University, Canada
+Nicolas Sklavos, University of Patras, Greece
+Daniel Slamanig, AIT Austrian Institute of Technology, Austria
+Kane Smith, University of North Carolina at Greensboro, US
+Agusti Solanas, Smart Health Research Group | Rovira i Virgili University, Spain
+Teodor Sommestad, Swedish Defence Research Agency (FOI), Sweden
+Chunhua Su, Osaka University, Japan
+Shamik Sural, Indian Institute of Technology, Kharagpur, India
+Neeraj Suri, TU Darmstadt, Germany
+Kerry-Lynn Thomson, Nelson Mandela Metropolitan University, South Africa
+Theo Tryfonas, University of Bristol, UK
+Rossouw Vonsolms, Nelson Mandela Metropolitan University, South Africa
+Jozef Vyskoc, VaF, Slovak Republic
+Ding Wang, Peking University, China
+Lingyu Wang, Concordia University, Canada
+Edgar Weippl, SBA Research, Austria
+Tatjana Welzer, University of Maribor, Faculty of Electrical Engineering and Computer Science, Slovenia
+Vladimir Zadorozhny, University of Pittsburgh, USA
+Filip Zagorski, Wroclaw University of Technology, Poland
+Yuexin Zhang, Swinburne University of Technology, Australia
+André Zúquete, University of Aveiro, Portugal

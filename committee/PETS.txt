@@ -1,0 +1,101 @@
+Ruba Abu-Salma, University College London
+Gergely Acs, Budapest University of Technology and Economics
+Mario Alvim, Universidade Federal de Minas Gerais
+Abdelrahaman Aly, KU Leuven
+Sebastian Angel, University of Pennsylvania
+Erman Ayday, Bilkent University
+Lujo Bauer, Carnegie Mellon University
+Sonia Ben Mokhtar, CNRS
+Nataliia Bielova, Inria
+Igor Bilogrevic, Google
+Cecylia Bocovich, University of Waterloo
+Aylin Caliskan, George Washington University
+Bogdan Carbunar, Florida International University
+Melissa Chase, Microsoft Research
+Giovanni Cherubin, EPFL
+Scott Coull, FireEye
+Anupam Das, NC State University
+Claudia Diaz, KU Leuven
+Roya Ensafi, University of Michigan
+David Evans, University of Virginia
+Julien Freudiger, Apple
+Sébastien Gambs, Université du Québec À Montréal (UQAM)
+Chaya Ganesh, Aarhus University
+Simson Garfinkel, U.S. Census Bureau
+Paolo Gasti, New York Institute
+Yossi Gilad, MIT
+Rachel Greenstadt, NYU
+Jamie Hayes, University College London
+Xi He, University of Waterloo
+Amir Herzberg, Bar Ilan University / University of Connecticut
+Nick Hopper, University of Minnesota
+Amir Houmansadr, University of Massachusetts Amherst
+Kévin Huguenin, Université de Lausanne
+Mathias Humbert, Swiss Data Science Center (SDSC)
+Rob Jansen, U.S. Naval Research Laboratory
+Philipp Jovanovic, EPFL
+Marc Juarez, University of Southern California
+Dali Kaafar, CSIRO
+Peter Kairouz, Stanford University
+Stefan Katzenbeisser, University of Passau, Germany
+Florian Kerschbaum, University of Waterloo
+Boris Koepf, IMDEA Software Institute
+Markulf Kohlweiss, University of Edinburgh
+Yoshi Kohno, University of Washington
+Alptekin Küpçü, Koç University
+Douglas Leith, Trinity College Dublin
+Patrick Loiseau, Inria
+Wouter Lueks, EPFL
+Abigail Marsh, Macalester College
+Nick Mathewson, Tor Project
+Travis Mayberry, U.S. Naval Academy
+Jonathan Mayer, Princeton University
+Michelle Mazurek, University of Maryland
+Susan McGregor, Tow Center for Digital Journalism & Columbia Journalism School
+Sebastian Meiser, University College London
+Ian Miers, Cornell Tech
+Alan Mislove, Northeastern University
+Aziz Mohaisen, University of Central Florida
+Esfandiar Mohammadi, ETH Zurich
+Pedro Moreno Sanchez, TU Wien
+Takao Murakami, National Institute of Advanced Industrial Science and Technology (AIST)
+Kartik Nayak, VMWare Research / Duke University
+Rishab Nithyanand, University of Iowa
+Melek Önen, EURECOM
+Cristina Onete, University of Limoges / XLIM
+Rebekah Overdorf, EPFL
+Catuscia Palamidessi, Inria
+Panagiotis Papadimitratos, KTH
+Charalampos Papamanthou, University of Maryland
+Paul Pearce, UC Berkeley
+Fabian Prasser, TU Munich
+Bart Preneel, KU Leuven
+Ananth Raghunathan, Google
+Michael Reiter, UNC Chapel Hill
+Daniel S. Roche, U.S. Naval Academy
+Stefanie Roos, TU Delft
+Nitesh Saxena, University of Alabama at Birmingham
+Florian Schaub, University of Michigan
+Zubair Shafiq, University of Iowa
+Micah Sherr, Georgetown University
+Reza Shokri, National University of Singapore
+Claudio Soriente, NEC
+Anna Squicciarini, Penn State University
+Theresa Stadler, Privitar
+Paul Syverson, U.S. Naval Research Laboratory
+Nina Taft, Google
+Hassan Takabi, University of North Texas
+Shruti Tople, Microsoft Research
+Blase Ur, University of Chicago
+Narseo Vallina, IMDEA Networks Institute
+Joris Van Hoboken, Vrije Universiteit Brussels / University of Amsterdam
+Tao Wang, HKUST
+Christo Wilson, Northeastern University
+Matthew Wright, Rochester Institute of Technology
+Jason Xue, Macquarie University
+Attila Yavuz, University of South Florida
+Arkady Yerukhimovich, George Washington University
+Thomas Zacharias, University of Edinburgh
+Daniel Zappala, Brigham Young University
+Yang Zhang, CISPA Helmholtz Center for Information Security
+Yupeng Zhang, Texas A&M University

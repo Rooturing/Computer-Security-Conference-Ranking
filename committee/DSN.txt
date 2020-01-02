@@ -1,0 +1,75 @@
+Yair Amir
+Homa Alemzadeh
+Saurabh Bagchi
+Alysson Bessani
+Andrea Bondavalli
+Sara Bouchenak
+Peter Buchholz
+Yinzhi Cao
+Giuliano Casale
+Shuo Chen
+Lydia Chen
+Lucy Cherkasova
+Miguel Correia
+Heming Cui
+Michel Cukier
+Marc Dacier
+Elias Duarte
+Manuel Egele
+Sameh Elnikety
+Pascal Felber
+Christof Fetzer
+Ryan Gerdes
+Dimitris Gizopoulos
+Neil Gong
+Zhongshu Gu
+Xiaohui Gu
+Shuai Hao
+Yennun Huang
+Gueyoung Jung
+Zbigniew Kalbarczyk
+Rudiger Kapitza
+Joost-Pieter Katoen
+Kaustubh Joshi (co-chair)
+Chung Hwan Kim
+Dong Seon Kim
+Kenji Kono
+Sy-Yen Kuo
+Dmitrii Kuvaiskii
+Patrick P.C. Lee
+Zhiqiang Lin
+Qi Li
+Peng Liu
+Michael Lyu
+Onur Mutlu
+Nuno Neves
+Miroslav Pajic
+Karthik Pattabiraman
+Michael Paulitsch
+Fernando Pedone
+Sebastiano Peluso
+Atul Prakash
+William Sanders
+Richard Schlichting
+Evegenia Smirni
+Lorenzo Strigini
+Kun Sun
+Neeraj Suri
+Divesh Tiwari
+Timothy Tsai
+Nektarios Tsoutsos
+Osman Unsal
+Paulo Verissimo
+Jia Wang
+Long Wang
+Gang Wang
+Haining Wang (co-chair)
+Katinka Wolter
+Timothy Wood
+Chengmo Yang
+K. S. Yim
+Chuan Yue
+Ying Zhang
+Fengwei Zhang
+Li Zhou
+Saman Zonouz

@@ -1,0 +1,73 @@
+Chuadhry Mujeeb Ahmed, Singapore University of Technology and Design, Singapore
+Cristina Alcaraz, University of Malaga, Spain
+Dinh Tien Tuan Anh, Singapore University of Technology and Design, Singapore
+Man Ho Au, The Hong Kong Polytechnic University, China
+Joonsang Baek, University of Wollongong, Australia
+Tegawendé F. Bissyandé, SnT, University of Luxembourg, Luxembourg
+Zhenfu Cao, East China Normal University, China
+Xiaolin Chang, Beijing Jiaotong University, China
+Kai Chen, Institute of Information Engineering, CAS, China
+Liqun Chen, University of Surrey, UK
+Songqing Chen, George Mason University, USA
+Ting Chen, University of Electronic Science and Technology of China, China
+Xiaofeng Chen, Xidian University, China
+Zhong Chen, Peking University, China
+Yueqiang Cheng, Baidu USA X-Lab, USA
+Sherman S. M. Chow, The Chinese University of Hong Kong, China
+Mauro Conti, University of Padua, Italy
+Jintai Ding, University of Cincinnati, USA
+Xuhua Ding, Singapore Management University, Singapore
+Jose Maria de Fuentes, Universidad Carlos III de Madrid, Spain
+Debin Gao, Singapore Management University, Singapore
+Xing Gao, University of Memphis, USA
+Angelo Genovese, University of Milan, Italy
+Dieter Gollmann, Hamburg University of Technology, Germany
+Stefanos Gritzalis, University of the Aegean, Greece
+Le Guan, University of Georgia, USA
+Jinguang Han, Queen's University of Belfast, UK
+Chenglu Jin, New York University, USA
+Sokratis Katsikas, Norwegian University of Science and Technology, Norway
+Dong Seong Kim, University of Queensland, Australia
+Qi Li, Tsinghua University, China
+Shujun Li, University of Kent, UK
+Zhou Li, University of California, Irvine, USA
+Giovanni Livraga, University of Milan, Italy
+Javier Lopez, University of Malaga, Spain
+Kangjie Lu, University of Minnesota Twin Cities, USA
+Bo Luo, University of Kansas, USA
+Daisuke Mashima, Advanced Digital Sciences Center, Singapore
+Weizhi Meng, Technical University of Denmark, Denmark
+Jiang Ming, The University of Texas at Arlington, USA
+Chris Mitchell, Royal Holloway, University of London, UK
+Atsuko Miyaji, Osaka University, Japan
+Jianbing Ni, University of Waterloo, Canada
+Jianting Ning, Singapore Management University, Singapore
+Roberto Di Pietro, Hamad Bin Khalifa University, Qatar
+Giovanni Russello, The University of Auckland, New Zealand
+Pierangela Samarati, University of Milan, Italy
+Qingni Shen, Peking University, China
+Chunhua Su, University of Aizu, Japan
+Purui Su, Institute of Software, CAS, China
+Hung-Min Sun, National Tsing Hua University, Taiwan
+Kun Sun, George Mason University, USA
+Pawel Szalachowski, Singapore University of Technology and Design, Singapore
+Qiang Tang, Luxembourg Institute of Science and Technology, Luxembourg
+Ding Wang, Peking University, China
+Haining Wang, Virginia Tech., USA
+Lingyu Wang, Concordia University, Canada
+Shuai Wang, Hong Kong University of Science and Technology, China
+Weiping Wen, Peking University, China
+Jia Xu, Singtel/Trustwave, Singapore
+Jun Xu, Stevens Institute of Technology, USA
+Yu Yu, Shanghai Jiao Tong University, China
+Toshihiro Yamauchi, Okayama University, Japan
+Tsz Hon Yuen, University of Hong Kong, China
+Chao Zhang, Tsinghua University, China
+Fan Zhang, Zhejiang University, China
+Junjie Zhang, Wright State University, USA
+Rui Zhang, Institute of Information Engineering, CAS, China
+Tianwei Zhang, Nanyang Technological University, Singapore
+Yang Zheng, Singapore University of Technology and Design, Singapore
+HongSheng Zhou, Virginia Commonwealth University, USA
+Yajin Zhou, Zhejiang University, China
+Yongbin Zhou, Institute of Information Engineering, CAS, China
