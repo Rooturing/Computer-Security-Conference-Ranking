@@ -60,7 +60,7 @@ def get_conf_rank():
         committee_quality = author_point
         paper_submission = conf_submitted_paper[conf]
         conf_rank[conf] = paper_submission * 0.3 + committee_num * 0.2 + committee_quality * 0.5
-        print("%d:%d:%d"%(author_point, author_num, committee_num))
+        print("%f:%f:%f"%(paper_submission * 0.3, committee_num * 0.2, committee_quality * 0.5))
     print(sorted(conf_rank.items(), key=lambda conf_rank:conf_rank[1],reverse=True))
 
 
