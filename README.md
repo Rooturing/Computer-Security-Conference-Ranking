@@ -1,4 +1,5 @@
-### Introduction
+### 概述
+
 由上海交通大学LoCCS实验室GoSSIP发布的最新计算机安全会议排名
 
 | Conference | Total Score | Paper Submission * 0.3 | Committee Number * 0.2 | Committee Quality * 0.5 | 
@@ -21,3 +22,10 @@
 | 16. DSN | 10510.1 | 75.6 | 15 | 10419.5 |
 | 17. ACM-CODASPY | 7021.6 | 35.7 | 9.4 | 6976.5 |
 | 18. ACM-SACMAT | 4725.7 | 15.6 | 6.6 | 4703.5 |
+
+### 数据来源
++ Paper Submission: 2019公布的会议提交论文数，代表会议的受到的关注度。
++ Committee Number: 2020会议Program Committee人数，代表会议的规模大小。
++ Committee Quality: 2020会议Program Committee在[Top Authors](http://s3.eurecom.fr/~balzarot/notes/top4_2018/authors_all_conf.html)中排名，排名越靠前分值越高。
+
+Total Score = Paper Submission * 0.3 + Committee Number * 0.2 + Committee Quality * 0.5
