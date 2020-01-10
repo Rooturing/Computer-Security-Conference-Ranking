@@ -25,7 +25,7 @@
 
 ### 数据来源
 + Paper Submission: 2019公布的会议提交论文数，代表会议的受到的关注度。
-+ Committee Number: 2020会议Program Committee人数，代表会议的规模大小。
-+ Committee Quality: 2020会议Program Committee在[Top Authors](http://s3.eurecom.fr/~balzarot/notes/top4_2018/authors_all_conf.html)中排名，排名越靠前分值越高。
++ Committee Number: 2019会议Program Committee人数，代表会议的规模大小。
++ Committee Quality: 2019会议Program Committee在[Top Authors](http://s3.eurecom.fr/~balzarot/notes/top4_2018/authors_all_conf.html)中排名，排名越靠前分值越高。
 
 Total Score = Paper Submission * 0.3 + Committee Number * 0.2 + Committee Quality * 0.5
