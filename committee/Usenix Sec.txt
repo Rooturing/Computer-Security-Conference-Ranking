@@ -1,128 +1,100 @@
 Yasemin Acar, Leibniz University Hannover
-Devdatta Akhawe, Dropbox, Inc.
-Ben Andow, IBM T.J. Watson Research Center
+Sadia Afroz, University of California, Berkeley/International Computer Science Institute
+Devdatta Akhawe, Dropbox
+Johanna Amann, International Computer Science Institute
 Adam Aviv, United States Naval Academy
-Michael Bailey, University of Illinois at Urbana-Champaign
+Michael Bailey, University of Illinois at Urbana–Champaign
 Adam Bates, University of Illinois at Urbana–Champaign
-Lejla Batina, Radboud University
-Lujo Bauer, Carnegie Mellon University
+Vincent Bindschaedler, University of Florida
+Joseph Bonneau, New York University
 Nikita Borisov, University of Illinois at Urbana–Champaign
-Herbert Bos, Vrije Universiteit Amsterdam
-Sven Bugiel, Helmholtz Center for Information Security (CISPA)
+Sven Bugiel, CISPA Helmholtz Center i.G.
 Kevin Butler, University of Florida
 Joe Calandrino, Federal Trade Commission
 Stefano Calzavara, Università Ca' Foscari Venezia
 Yinzhi Cao, Johns Hopkins University
+Srdjan Capkun, ETH Zurich
 Lorenzo Cavallaro, King's College London
 Stephen Checkoway, Oberlin College
-William Cheswick, University of Pennsylvania
-Cas Cremers, Helmholtz Center for Information Security (CISPA)
+Bill Cheswick, AT&T Labs—Research
+Marshini Chetty, Princeton University
+Mihai Christodorescu, VISA Research
+Erinn Clark, First Look Media
+George Danezis, University College London
 Nathan Dautenhahn, Rice University
-Lucas Davi, Universität Duisburg-Essen
-Emiliano De Cristofaro, University College London
-Adam Doupé, Arizona State University
-Thomas Dullien, optimyze.cloud AG
+Roger Dingledine, The Tor Project
+Adam Doupe, Arizona State University
+Thomas Dullien, Google
 Zakir Durumeric, Stanford University
 Manuel Egele, Boston University
 William Enck, North Carolina State University
+Roya Ensafi, University of Michigan
 David Evans, University of Virginia
 Sascha Fahl, Leibniz University Hannover
 Giulia Fanti, Carnegie Mellon University
 Nick Feamster, University of Chicago
+Adrienne Porter Felt, Google
 Earlence Fernandes, University of Washington
-Aurélien Francillon, EURECOM
 David Freeman, Facebook
-Kevin Fu, University of Michigan
-Siddharth Garg, New York University
-Carrie Gates, Bank of America
 Daniel Genkin, University of Michigan
-Matthew Green, Johns Hopkins University
-Rachel Greenstadt, New York University
+Neil Gong, Iowa State University
+Matthew Green, Johns Hopkins Information Security Institute
+Rachel Greenstadt, Drexel University
 Daniel Gruss, Graz University of Technology
+Joseph Lorenzo Hall, Center for Democracy & Technology
 Xiali (Sharon) Hei, University of Louisiana at Lafayette
-Thorsten Holz, Ruhr-Universität Bochum
+Thorsten Holz, Ruhr-University Bochum
 Trent Jaeger, The Pennsylvania State University
 Rob Jansen, U.S. Naval Research Laboratory
 Mobin Javed, Lahore University of Management Sciences
-Ari Juels, Cornell Tech
-Apu Kapadia, Indiana University
-Aniket Kate, Purdue
+Chris Kanich, University of Illinois at Chicago
 Vasileios Kemerlis, Brown University
 Yongdae Kim, Korea Advanced Institute of Science and Technology (KAIST)
-Engin Kirda, Northeastern University
-Tadayoshi Kohno, University of Washington
-Farinaz Koushanfar, University of California San Diego
-Katharina Krombholz, Helmholtz Center for Information Security (CISPA)
-Mathias Lecuyer, Columbia University
+Lea Kissner, Humu
+Yoshi Kohno, University of Washington
+Farinaz Koushanfar, University of California, San Diego
+Katharina Krombholz, CISPA Helmholtz Center i.G.
+Ben Laurie, Google
 Tancrède Lepoint, Google
-Frank Li, Facebook/Georgia Institute of Technology
 Martina Lindorfer, Technische Universität Wien
-Long Lu, Northeastern University
-Matteo Maffei, Technische Universität Wien
-Stefan Mangard, Graz University of Technology
-Ivan Martinovic, University of Oxford
-Clémentine Maurice, IRISA
-René Mayrhofer, Johannes Kepler Universität Linz
-Damon McCoy, New York University
+Allison Mankin, Salesforce
+Ivan Martinovic, Oxford University
+Stephen McCamant, University of Minnesota
 Jon McCune, Google
 Patrick McDaniel, The Pennsylvania State University
 Sarah Meiklejohn, University College London
 Jelena Mirkovic, USC/Information Sciences Institute
-Esfandiar Mohammadi, University of Lübeck
-Veelasha Moonsamy, Radboud University
-Anita Nikolich, Illinois Institute of Technology
-Guevara Noubir, Northeastern University
-Nils Ole Tippenhauer, Helmholtz Center for Information Security (CISPA)
+Prateek Mittal, Princeton University
+Veelasha Moonsamy, Utrecht University
+Adwait Nadkarni, College of William & Mary
 Yossi Oren, Ben-Gurion University of the Negev
-Nicolas Papernot, University of Toronto
-Kenny Paterson, ETH Zurich
+Nicolas Papernot, The Pennsylvania State University
+Kenny Paterson, Royal Holloway
 Mathias Payer, École Polytechnique Fédérale de Lausanne (EPFL)
-Paul Pearce, Georgia Institute of Technology
-Giancarlo Pellegrino, Stanford University and Helmholtz Center for Information Security (CISPA)
-Adrian Perrig, ETH Zurich
-Christina Poepper, New York University Abu Dhabi
-Jason Polakis, University of Illinois at Chicago
-Adrienne Porter Felt, Google
-Niels Provos, Stripe
-Amir Rahmati, Stony Brook University
-Aanjhan Ranganathan, Northeastern University
-Kaveh Razavi, Vrije Universiteit Amsterdam
-Bradley Reaves, North Carolina State University
-Elissa Redmiles, Princeton University
+Giancarlo Pellegrino, Stanford University
+Christina Pöpper, New York University Abu Dhabi
+Brad Reaves, North Carolina State University
+Elissa Redmiles, Microsoft Research and Princeton University
 Konrad Rieck, Technische Universität Braunschweig
+Tom Ristenpart, Cornell Tech
+Tom Ritter, Mozilla
+Franziska Roesner, University of Washington
 Ahmad-Reza Sadeghi, Technische Universität Darmstadt
+Prateek Saxena, National University of Singapore
 Nolen Scaife, University of Florida
-Wendy Seltzer, W3C and Massachusetts Institute of Technology
-Huasong Shan, JD.com Silicon Valley R&D Center
+Wendy Seltzer, W3C/Massachusetts Institute of Technology
 Micah Sherr, Georgetown University
 Deian Stefan, University of California, San Diego
-Ben Stock, Helmholtz Center for Information Security (CISPA)
+Ben Stock, CISPA Helmholtz Center i.G.
 Gianluca Stringhini, Boston University
-Yuan Tian, University of Virginia
-Patrick Traynor, University of Florida
-Carmela Troncoso, École Polytechnique Fédérale de Lausanne (EPFL)
-Gene Tsudik, University of California, Irvine
-Blase Ur, University of Chicago
+Dave 'Jing' Tian, University of Florida
+Luke Valenta, University of Pennsylvania
 Ingrid Verbauwhede, Katholieke Universiteit Leuven
-Bimal Viswanath, Virginia Polytechnic Institute and State University
 David Wagner, University of California, Berkeley
-Byron J. Williams, University of Florida
-Xinyu Xing, The Pennsylvania State University
+Byron Williams, University of Florida
+Eric Wustrow, University of Colorado Boulder
 Wenyuan Xu, Zhejiang University
 Yuval Yarom, University of Adelaide and Data61
+Tuba Yavuz, University of Florida
 Daniel Zappala, Brigham Young University
 Mary Ellen Zurko, MIT Lincoln Laboratory
-Steering Committee
-Matt Blaze, Georgetown University
-Dan Boneh, Stanford University
-William Enck, North Carolina State University
-Kevin Fu, University of Michigan
-Casey Henderson, USENIX Association
-Nadia Heninger, University of California, San Diego
-Thorsten Holz, Ruhr-Universität Bochum
-Jaeyeon Jung, Samsung Electronics
-Engin Kirda, Northeastern University
-Tadayoshi Kohno, University of Washington
-Thomas Ristenpart, Cornell Tech
-Patrick Traynor, University of Florida
-David Wagner, University of California, Berkeley

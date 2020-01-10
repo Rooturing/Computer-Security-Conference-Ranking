@@ -1,6 +1,6 @@
-Program Chair: Guofei Gu, Texas A&M University
-Program Co-Chair: Danfeng (Daphne) Yao, Virginia Tech
-Artifact Evaluation Chair: Roberto Perdisci, University of Georgia
+Guofei Gu, Texas A&M University
+Danfeng (Daphne) Yao, Virginia Tech
+Roberto Perdisci, University of Georgia
 Yousra Aafer, Purdue University
 Ehab Al-Shaer, UNC Charlotte
 Magnus Almgren, Chalmers University of Technology

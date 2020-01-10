@@ -2,46 +2,42 @@ Irfan Ahmed, Virginia Commonwealth University
 Gail-Joon Ahn, Arizona State University
 Cuneyt Gurcan Akcora, The University of Texas at Dallas
 Vijay Atluri, Rutgers University
-Leila Bahri, KTH - Stockholm
 Elisa Bertino, Purdue University
 Prosunjit Biswas, Anaplan Inc.
 Barbara Carminati, University of Insubria
-Yuan Cheng, California State University, Sacramento
-Pietro Colombo, University of Insubria
+Reza Curtmola, New Jersey Institute of Technology
 Naranker Dulay, Imperial College London
 Manuel Egele, Boston University
 Elena Ferrari, University of Insubria
 Philip W. L. Fong, University of Calgary
 Debin Gao, Singapore Management University
-Maanak Gupta, Tennessee Tech University
+Brahim Hamid, IRIT - University of Toulouse
 Hannes Hartenstein, Karlsruhe Institute of Technology
-Panagiotis Ilia, University of Illinois at Chicago
-Wei Jiang, University of Missouri
+Wei Jiang, Missouri University of Science and Technology
 Martin Johns, TU Braunschweig
-Murat Kantarcioglu, The University of Texas at Dallas
 Alexandros Kapravelos, North Carolina State University
+Yves Le Traon, University of Luxembourg
 Adam J. Lee, University of Pittsburgh
 Qi Li, Tsinghua University
-Dan Lin, University of Missouri
+Dan Lin, Missouri University of Science and Technology
 Brad Malin, Vanderbilt University
+Fabio Martinelli, IIT-CNR
 Amirreza Masoumzadeh, University at Albany - SUNY
+Martín Ochoa, Cyxtera Technologies
 Jaehong Park, University of Alabama in Huntsville
 Alexander Pretschner, Technical University of Munich
 Indrajit Ray, Colorado State University
 Vassil Roussev, University of New Orleans
 Erkay Savas, Sabanci University
 Huasong Shan, JD.com American Technologies Corporation
-Wenbo Shen, Zhejiang University
-Anoop Singhal, NIST
 Anna Squicciarini, The Pennsylvania State University
-Srivathsan Srinivasagopalan, AT&T Cybersecurity
 Natalia Stakhanova, University of New Brunswick
 Hassan Takabi, University of North Texas
 Mahesh Tripunitara, University of Waterloo
-Phani Vadrevu, University of New Orleans
+Jaideep Vaidya, Rutgers University
 Wendy Hui Wang, Stevens Institute of Technology
 Roland Yap, National University of Singapore
-Kailiang Ying, Syracuse University
+Ting Yu, Qatar Computing Research Institute
 Chuan Yue, Colorado School of Mines
-Ziming Zhao, Rochester Institute of Technology
+Junyuan Zeng, The University of Texas at Dallas
 Yajin Zhou, Zhejiang University

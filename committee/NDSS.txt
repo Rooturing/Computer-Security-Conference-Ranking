@@ -1,97 +1,81 @@
-Ahmad-Reza Sadeghi, TU Darmstadt
+Alina Oprea, Northeastern University
 Dongyan Xu, Purdue University
-Adam Aviv, The George Washington University
+Adam Aviv, United States Naval Academy
+Foteini Baldimtsi, George Mason University
+Lujo Bauer, Carnegie Mellon University
 Adam Bates, University of Illinois at Urbana-Champaign
-Adam Doupe, Arizona State University
-Adwait Nadkarni, William & Mary
-Alexandra Dmitrienko, University of Würzburg
-Amir Houmansadr, University of Massachusetts-Amherst
-Andrew Paverd, Microsoft Research
-Antonio Bianchi, Purdue University
-Anupam Das, North Carolina State University
-Ben Stock, CISPA Helmholtz Center for Information Security
-Benny Pinkas, VMware Research, Bar Ilan University
-Bimal Viswanath, Virginia Tech
-Blase Ur, University of Chicago
-Brad Reaves, North Carolina State University
-Brendan Dolan-Gavitt, NYU
-Brendan Saltaformaggio, Georgia Institute of Technology
-Brent ByungHoon Kang, KAIST
-Bryan Parno, Carnegie Mellon University
-Byoungyoung Lee, Seoul National University
-Carmela Troncoso, EPFL
-Carrie Gates, Bank of America
-Chris Kanich, University of Illinois at Chicago
-Christina Garman, Purdue University
-Christina Poepper, New York University Abu Dhabi
-Christopher Liebchen, Google
-Cristina Nita-Rotaru, Northeastern University
-David Lie, University of Toronto
-Davide Balzarotti, EURECOM
-Earlence Fernandes, University of Wisconsin-Madison
-Emiliano De Cristofaro, University College London (UCL)
-Engin Kirda, Northeastern University
-Farinaz Koushanfar, University of California San Diego
-Gang Tan, Pennsylvania State University
-Gang Wang, Virginia Tech
-Gene Tsudik, University of California Irvine (UCI)
-Guofei Gu, Texas A&M University
-Haibo Chen, Shanghai Jiao Tong University
-Hamed Okhravi, MIT Lincoln Lab
-Ivan Martinovic, Oxford University
-Jack Stokes, Microsoft Research
-Jeremiah Blocki, Purdue University
-Jon McCune, Google
-Juan Caballero, IMDEA Software Institute
+Marina Blanton, SUNY Buffalo
 Kevin Butler, University of Florida
-Kevin Hamlen, University of Texas at Dallas
-Konrad Rieck, TU Braunschweig
-Kun Sun, George Mason University
-Lejla Batina, Radboud University
-Limin Jia, Carnegie Mellon University
-Long Lu, Northeastern University
-Lucas Davi, University of Duisburg-Essen
-Luyi Xing, Indiana University Bloomington
-Manuel Egele, Boston University
-Marcus Peinado, Microsoft Research
-Mathias Payer, EPFL
-Matt Fredrikson, Carnegie Mellon University
-Mauro Conti, University of Padua
-Micah Sherr, Georgetown University
-Michelle Mazurek, University of Maryland
-Mihai Christodorescu, Visa Research
-Neil Gong, Duke University
-Nele Mentens, KU Leuven
-Nick Nikiforakis, Stony Brook University
-Panos Papadimitratos, KTH Royal Institute of Technology
-Patrick Traynor, University of Florida
-Per Larsen, University of California Irvine and Immunant, Inc.
-Qi Li, Tsinghua University
-Rosario Cammarota, Intel
-Saman Zonouz, Rutgers University
-Sebastian Faust, TU Darmstadt
-Selcuk Uluagac, Florida International University
+Juan Caballero, IMDEA Software Institute
+Joseph Calandrino, FTC
 Srdjan Capkun, ETH Zurich
-Stefan Katzenbeisser, University of Passau
-Stefanie Roos, TU Delft
-Stephen McCamant, University of Minnesota
-Suman Jana, Columbia University
-Taesoo Kim, Georgia Institute of Technology
-Thomas Schneider, TU Darmstadt
-Thorsten Holz, Ruhr-University Bochum
-Tiffany Bao, Arizona State University
-Trent Jaeger, Pennsylvania State University
+Gabriela Ciocarlie, SRI
+Weidong Cui, Microsoft Research
+Lucas Davi, University of Duisburg-Essen
+Emiliano De Cristofaro, University College London
+Adam Doupe, Arizona State University
 Tudor Dumitras, University of Maryland
-Vinod Ganapathy, Indian Institute of Science
-Wenyuan Xu, Zhejiang University
+Manuel Egele, Boston University
 William Enck, North Carolina State University
-Xiaojing Liao, Indiana University Bloomington
-Yinqian Zhang, Ohio State University
+David Evans, University of Virginia
+Giulia Fanti, Carnegie Mellon University
+Matt Fredrikson, Carnegie Mellon University
+Christina Garman, Purdue University
+Carrie Gates, Bank of America
+Phillipa Gill, University of Massachusetts-Amherst
+Cristiano Giuffrida, Vrije University Amsterdam
+Neil Gong, Iowa State University
+Carl Gunter, University of Illinois at Urbana-Champaign
+Ryan Henry, Indiana University
+Thorsten Holz, Ruhr-University Bochum
+Endadul Hoque, Florida International University
+Amir Houmansadr, University of Massachusetts-Amherst
+Limin Jia, Carnegie Mellon University
+Brent ByungHoon Kang, KAIST
+Aniket Kate, Purdue University
+Chung Hwan Kim, NEC Labs America
+Taesoo Kim, Georgia Tech
 Yongdae Kim, KAIST
+Engin Kirda, Northeastern University
+Farinaz Koushanfar, UC San Diego
 Yonghwi Kwon, University of Virginia
-Yossef Oren, Ben-Gurion University of the Negev
-Yuan Tian, University of Virginia
+Kirill Levchenko, UC San Diego
+Bo Li, University of Illinois at Urbana-Champaign
+Zhou Li, RSA
 Zhenkai Liang, National University of Singapore
+Xiaojing Liao, Indiana University
+David Lie, University of Toronto
 Zhiqiang Lin, Ohio State University
-Zhiyun Qian, University of California, Riverside
-Zhou Li, University Of California Irvine
+Long Lu, Northeastern University
+Ivan Martinovic, Oxford University
+Michelle Mazurek, University of Maryland
+Damon McCoy, New York University
+Jon McCune, Google
+Nick Nikiforakis, Stony Brook University
+Cristina Nita-Rotaru, Northeastern University
+Hamed Okhravi, MIT Lincoln Lab
+Dimitris Papadopoulos, Hong Kong University of Science and Technology
+Mathias Payer, EPFL and Purdue University
+Marcus Peinado, Microsoft Research
+Roberto Perdisci, University of Georgia
+Christina Poepper, NYU Abu Dhabi
+Michalis Polychronakis, Stony Brook University
+Zhiyun Qian, UC Riverside
+Aanjhan Ranganathan, Northeastern University
+Bradley Reaves, North Carolina State University
+Mike Reiter, UNC Chapel Hill
+Ahmad-Reza Sadeghi, Technical University Darmstadt
+Tamara Rezk, INRIA
+Brendan Saltaformaggio, Georgia Tech
+Micah Sherr, Georgetown University
+Deian Stefan, UC San Diego
+Jay Stokes, Microsoft Research
+Yuan Tian, University of Virginia
+Nikos Triandopolous, Stevens Institute of Technology
+Selcuk Uluagac, Florida International University
+Luyi Xing, Indiana University
+Wenyuan Xu, Zhejiang University
+Daphne Yao, Virginia Tech
+Ting-Fang Yen, DataVisor
+Yinqian Zhang, Ohio State University
+Saman Zonouz, Rutgers University

@@ -1,75 +1,67 @@
-Yair Amir
-Homa Alemzadeh
-Saurabh Bagchi
-Alysson Bessani
-Andrea Bondavalli
-Sara Bouchenak
-Peter Buchholz
-Yinzhi Cao
-Giuliano Casale
-Shuo Chen
-Lydia Chen
-Lucy Cherkasova
-Miguel Correia
-Heming Cui
-Michel Cukier
-Marc Dacier
-Elias Duarte
-Manuel Egele
-Sameh Elnikety
-Pascal Felber
-Christof Fetzer
-Ryan Gerdes
-Dimitris Gizopoulos
-Neil Gong
-Zhongshu Gu
-Xiaohui Gu
-Shuai Hao
-Yennun Huang
-Gueyoung Jung
-Zbigniew Kalbarczyk
-Rudiger Kapitza
-Joost-Pieter Katoen
-Kaustubh Joshi (co-chair)
-Chung Hwan Kim
-Dong Seon Kim
-Kenji Kono
-Sy-Yen Kuo
-Dmitrii Kuvaiskii
-Patrick P.C. Lee
-Zhiqiang Lin
-Qi Li
-Peng Liu
-Michael Lyu
-Onur Mutlu
-Nuno Neves
-Miroslav Pajic
-Karthik Pattabiraman
-Michael Paulitsch
-Fernando Pedone
-Sebastiano Peluso
-Atul Prakash
-William Sanders
-Richard Schlichting
-Evegenia Smirni
-Lorenzo Strigini
-Kun Sun
-Neeraj Suri
-Divesh Tiwari
-Timothy Tsai
-Nektarios Tsoutsos
-Osman Unsal
-Paulo Verissimo
-Jia Wang
-Long Wang
-Gang Wang
-Haining Wang (co-chair)
-Katinka Wolter
-Timothy Wood
-Chengmo Yang
-K. S. Yim
-Chuan Yue
-Ying Zhang
-Fengwei Zhang
-Li Zhou
-Saman Zonouz
+Alexey Gotsman	IMDEA Software Institute	Spain
+Alysson Bessani	University of Lisbon	Portugal
+Andrea Ceccarelli	University of Florence	Italy
+Andrey Brito	UFCG	Brazil
+Benoit Garbinato	University of Lausanne	Switzerland
+Catello Di Martino	Nokia Bell Labs	USA
+Christian Cachin	IBM Research - Zurich	Switzerland
+Christoph Borchert	University of Osnabrueck	Germany
+David Kozhaya	ABB Corporate Research	Switzerland
+Devesh Tiwari	Northeastern	USA
+Domenico Cotroneo	U. Naples and Critiware	Italy
+Dong Seong Kim	University of Queensland	Australia
+Doug Blough	Georgia Tech	USA
+Elena Troubitsyna	Abo Akademi	Finland
+Elias Duarte	UFPR	Brazil
+Elmootazbellah Elnozahy	KAUST	Saudi Arabia
+Etienne Riviere	UCLouvain	Belgium
+Evgenia Smirni	College of William and Mary	USA
+Felicita Di Giandomenico	ISTI-CNR	Italy
+Fernando Dotti	PUC-RS	Brazil
+Francois Taiani	Univ. Rennes, CNRS, Inria, IRISA	France
+Frolin Ocariza	SAP	Canada
+Gabriela Jacques Da Silva	Facebook	USA
+Haining Wang	University of Delaware	USA
+Heming Cui	University of Hong Kong	China
+Homa Alemzadeh	University of Virginia	USA
+Ilir Gashi	City University of London	UK
+Jose Orlando Pereira	INESCTEC & U. Minho	Portugal
+Jussara M. Almeida	UFMG	Brazil
+Kaustubh Joshi	AT&T Research	USA
+Kenji Kono	Keio Univ.	Japan
+Keun Soo Yim	Google	USA
+Long Wang	IBM Research	USA
+Luis Rodrigues	INESC-ID, IST, Universidade de Lisboa	Portugal
+Lydia Y. Chen	IBM Research	Switzerland
+Marco Serafini	University of Massachusetts Amherst	USA
+Marco Vieira	U. Coimbra	Portugal
+Mattan Erez	The University of Texas at Austin	USA
+Michael Lyu	CUHK	USA
+Miguel Correia	INESC-ID / Instituto Superior Tecnico	Portugal
+Mohamed Kaaniche	LAAS	France
+Nathan DeBardeleben	Los Alamos National Laboratory	USA
+Neeraj Suri	TU Darmstadt	Germany
+Nuno Neves	University of Lisbon	Portugal
+Onur Mutlu	ETH Zurich	Switzerland
+Paolo Rech	UFRGS	Brazil
+Paolo Romano	University of Lisbon & INESC-ID	Portugal
+Parisa Marandi	Microsoft	UK
+Pascal Felber	UNINE	Switzerland
+Peter Pietzuch	Imperial College London	UK
+Rakesh Bobba	Oregon State University	USA
+Regina Moraes	University of Campinas	Brazil
+Rick Schlichting	US Naval Academy	USA
+Rudiger Kapitza	TU Braunschweig	Germany
+Saman Zonouz	Rutgers	USA
+Sameh Elnikety	Microsoft Research	USA
+Santonu Sarkar	ABB Research	India
+Sara Bouchenak	INSA Lyon	France
+Saurabh Bagchi	Purdue University	USA
+Shuo Chen	Microsoft Research	USA
+Susanna Donatelli	University of Torino	Italy
+Timothy Tsai	Nvidia	USA
+Vana Kalogeraki	Athens University of Economics and Business	Greece
+Vilas Sridharan	AMD	USA
+William H. Sanders	University of Illinois	USA
+Yennun Huang	Academia Sinica	Taiwan
+Zbigniew Kalbarczyk	University of Illinois	USA

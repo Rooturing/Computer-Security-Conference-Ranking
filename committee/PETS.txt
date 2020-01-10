@@ -1,101 +1,120 @@
-Ruba Abu-Salma, University College London
-Gergely Acs, Budapest University of Technology and Economics
+Ruba Abu-Salma, University College London (UCL)
+Gunes Acar, Princeton University
+Sadia Afroz, ICSI / Berkeley
+William Aiello, University of British Columbia
+Mashael Al-Sabah, Qatar Computing Research Institute
 Mario Alvim, Universidade Federal de Minas Gerais
-Abdelrahaman Aly, KU Leuven
+Abdelrahaman Aly, imec-COSIC, KU Leuven
 Sebastian Angel, University of Pennsylvania
-Erman Ayday, Bilkent University
+Erman Ayday, Case Western Reserve University
+Foteini Baldimtsi, George Mason University
+Shehar Bano, University College London
+Kevin Bauer, MIT Lincoln Laboratory
 Lujo Bauer, Carnegie Mellon University
-Sonia Ben Mokhtar, CNRS
-Nataliia Bielova, Inria
+Nataliia Bielova, INRIA
 Igor Bilogrevic, Google
 Cecylia Bocovich, University of Waterloo
-Aylin Caliskan, George Washington University
+Nikita Borisov, UIUC
 Bogdan Carbunar, Florida International University
 Melissa Chase, Microsoft Research
-Giovanni Cherubin, EPFL
+Kostas Chatzikokolakis, CNRS
+Chris Clifton, Purdue University
 Scott Coull, FireEye
-Anupam Das, NC State University
+Jed Crandall, University of New Mexico
+Anupam Das, North Carolina State University
+Rinku Dewri, University of Denver
 Claudia Diaz, KU Leuven
-Roya Ensafi, University of Michigan
-David Evans, University of Virginia
+Serge Egelman, ICSI / Berkeley
+Tariq Elahi, University of Edinburgh
+Ittay Eyal, Technion
 Julien Freudiger, Apple
-Sébastien Gambs, Université du Québec À Montréal (UQAM)
-Chaya Ganesh, Aarhus University
-Simson Garfinkel, U.S. Census Bureau
-Paolo Gasti, New York Institute
+SÈbastien Gambs, UniversitÈ du QuÈbec ‡ MontrÈal (UQAM)
+Paolo Gasti, New York Institute of Technology
 Yossi Gilad, MIT
-Rachel Greenstadt, NYU
-Jamie Hayes, University College London
-Xi He, University of Waterloo
-Amir Herzberg, Bar Ilan University / University of Connecticut
+Rachel Greenstadt, Drexel University
+Jens Grossklags, Technical University of Munich
+Jamie Hayes, UCL
+Amir Herzberg, University of Connecticut and Bar Ilan University
 Nick Hopper, University of Minnesota
 Amir Houmansadr, University of Massachusetts Amherst
-Kévin Huguenin, Université de Lausanne
-Mathias Humbert, Swiss Data Science Center (SDSC)
+KÈvin Huguenin, UniversitÈ de Lausanne
 Rob Jansen, U.S. Naval Research Laboratory
+Mobin Javed, LUMS/ICSI
+Aaron Johnson, U.S. Naval Research Laboratory
 Philipp Jovanovic, EPFL
-Marc Juarez, University of Southern California
-Dali Kaafar, CSIRO
-Peter Kairouz, Stanford University
-Stefan Katzenbeisser, University of Passau, Germany
+Marc Juarez, KU Leuven
+Peter Kairouz, Google AI
+Apu Kapadia, Indiana University Bloomington
+Aniket Kate, Purdue University
+Stefan Katzenbeisser, TU Darmstadt
 Florian Kerschbaum, University of Waterloo
-Boris Koepf, IMDEA Software Institute
-Markulf Kohlweiss, University of Edinburgh
+Boris Koepf, Microsoft Research
+Markulf Kohlweiss, Edimbourgh University
 Yoshi Kohno, University of Washington
-Alptekin Küpçü, Koç University
+Ponnurangam Kumaraguru, IIIT Delhi
+Alptekin K¸pÁ¸, KoÁ University
+Susan Landau, Tufts University
 Douglas Leith, Trinity College Dublin
+Janne Lindqvist, Rutgers university
+Chang Liu, Berkeley
 Patrick Loiseau, Inria
 Wouter Lueks, EPFL
-Abigail Marsh, Macalester College
+Ashwin Machanavajjhala, Duke University
+Ivan Martinovic, University of Oxford
 Nick Mathewson, Tor Project
 Travis Mayberry, U.S. Naval Academy
-Jonathan Mayer, Princeton University
 Michelle Mazurek, University of Maryland
 Susan McGregor, Tow Center for Digital Journalism & Columbia Journalism School
-Sebastian Meiser, University College London
-Ian Miers, Cornell Tech
+Sarah Meiklejohn, University College London
 Alan Mislove, Northeastern University
-Aziz Mohaisen, University of Central Florida
+Prateek Mittal, Princeton University
 Esfandiar Mohammadi, ETH Zurich
-Pedro Moreno Sanchez, TU Wien
+Pedro Moreno-Sanchez, TU Wien
 Takao Murakami, National Institute of Advanced Industrial Science and Technology (AIST)
-Kartik Nayak, VMWare Research / Duke University
-Rishab Nithyanand, University of Iowa
-Melek Önen, EURECOM
-Cristina Onete, University of Limoges / XLIM
-Rebekah Overdorf, EPFL
-Catuscia Palamidessi, Inria
-Panagiotis Papadimitratos, KTH
+Steven Murdoch, University College London
+Arvind Narayanan, Princeton University
+Melek ÷nen, EURECOM
+Cristina Onete, Universite de Limoges / XLIM
+Claudio Orlandi, Aarhus University
+Rebekah Overdorf, KU Leuven
+Catuscia Palamidessi, INRIA
+Panagiotis (Panos) Papadimitratos, KTH
 Charalampos Papamanthou, University of Maryland
+Nicolas Papernot, Google Brain
 Paul Pearce, UC Berkeley
 Fabian Prasser, TU Munich
 Bart Preneel, KU Leuven
-Ananth Raghunathan, Google
-Michael Reiter, UNC Chapel Hill
-Daniel S. Roche, U.S. Naval Academy
+Ananth Raghunathan, Google Brain
+Joel Reardon, University of Calgary
+External Reviewer, University of Calgary
+Alfredo Rial, University of Luxembourg
+Franziska Roesner, University of Washington
+Thomas Roessler, Google
+Phillip Rogaway, UC Davis
 Stefanie Roos, TU Delft
+Ahmad-Reza Sadeghi, Technische Universit‰t Darmstadt
 Nitesh Saxena, University of Alabama at Birmingham
-Florian Schaub, University of Michigan
+Peter Schwabe, Radboud University
 Zubair Shafiq, University of Iowa
-Micah Sherr, Georgetown University
 Reza Shokri, National University of Singapore
 Claudio Soriente, NEC
 Anna Squicciarini, Penn State University
 Theresa Stadler, Privitar
+Nick Sullivan, Cloudflare
 Paul Syverson, U.S. Naval Research Laboratory
 Nina Taft, Google
 Hassan Takabi, University of North Texas
 Shruti Tople, Microsoft Research
+Carmela Troncoso, EPFL
+Doug Tygar, UC Berkeley
 Blase Ur, University of Chicago
 Narseo Vallina, IMDEA Networks Institute
-Joris Van Hoboken, Vrije Universiteit Brussels / University of Amsterdam
-Tao Wang, HKUST
-Christo Wilson, Northeastern University
-Matthew Wright, Rochester Institute of Technology
-Jason Xue, Macquarie University
-Attila Yavuz, University of South Florida
-Arkady Yerukhimovich, George Washington University
+Joris Van Hoboken, University of Amsterdam & Vrije Universiteit Brussels
+Eugene Vasserman, Kansas State University
+Tara Whalen, Google
+Philipp Winter, UC San Diego / CAIDA
+Matthew Wright, RIT
+Minhui Xue, Macquarie University and Data61-CSIRO
 Thomas Zacharias, University of Edinburgh
 Daniel Zappala, Brigham Young University
-Yang Zhang, CISPA Helmholtz Center for Information Security
-Yupeng Zhang, Texas A&M University
+Ben Zhao, University of Chicago

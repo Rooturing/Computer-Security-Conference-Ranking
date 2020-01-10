@@ -1,55 +1,52 @@
-Program Chairs	Lujo Bauer	CyLab, Carnegie Mellon University, USA
-Frank Stajano	University of Cambrige, UK
-PC Members	AbdelRahman Abdou	Carleton University
-Alexandra Dmitrienko	University of Würzburg
-Andrei Sabelfeld	Chalmers
-Benjamin Dowling	ETH Zurich
-Brendan Saltaformaggio	Georgia Tech
-Carmela Troncoso	EPFL
-Catherine Meadows	Naval Research Lab
-Christoph Dobraunig	Radboud University
-Corina Pasareanu	NASA / CMU SV
-Cristina Onete	U Limoges
-David Chisnall	Microsoft Research Cambridge
-Elizabeth Stobert	Carleton University
+Frank Piessens	KU Leuven
 Frank Stajano	University of Cambridge
-Gang Tan	Pennsylvania State University
-Giancarlo Pellegrino	CISPA
-Ioana Boureanu	Surrey
-Ivan Martinovic	University of Oxford
-Jelena Mirkovic	USC/Information Sciences Institute
-Joseph Bonneau	NYU
-Kami Vaniea	University of Edinburgh
-Katharina Krombholz	CISPA
-Kevin Butler	University of Florida
-Konrad Rieck	TU Braunschweig
-Laurent Simon	Google
-Lejla Batina	Radboud University
-Limin Jia	CMU
-Lujo Bauer	Carnegie Mellon University
-Marco Guarnieri	IMDEA Software Institute
-Martin Johns	TU Braunschweig
-Mathy Vanhoef	New York University Abu Dhabi
-Matthew Green	Johns Hopkins
-Matthew Smith	University of Bonn, Fraunhofer FKIE
-Musard Balliu	KTH Royal Institute of Technology
-Nick Nikiforakis	Stony Brook University
-Nicolas Christin	CMU
-Ralf Sasse	ETH Zurich
-Sadia Afroz	ICSI
-Sang Kil Cha	KAIST
-Sarah Meiklejohn	University College London
+AbdelRahman M. Abdou	ETH Zurich and Carleton University (Canada)
+Andrei Sabelfeld	Chalmers University of Technology
+Atul Luykx			Visa
+Awais Rashid		University of Bristol
+Bart Mennink		RU Nijmegen
+Ben Stock			CISPA Helmholtz Center
+Benjamin Dowling	Royal Holloway
+Carsten Maple		University of Warwick
+Christian Rossow	Saarland University
+Cristina Onete		University of Limoges/XLIM/CNRS 7252
+David Chisnall		Microsoft Research Cambridge
+Dennis Andriesse	Vrije Universiteit
+Emanuel von Zezschwitz	University of Bonn
+Engin Kirda			Northeastern University
+Ioana Boureanu		Univ. of Surrey, Surrey Centre for Cyber Security
+Jonathan Anderson	Memorial University of Newfoundland
+Joseph Bonneau		NYU
+Kaveh Razavi		Vrije Universiteit Amsterdam
+Konrad Rieck		TU Braunschweig
+Laurent Simon		Samsung Research America
+Limin Jia			CMU
+Lorenzo Cavallaro	King's College London
+Luca Viganò			King's College London
+Lujo Bauer			CMU
+Manuel Costa		MSR Cambridge
+Marinella Petrocchi	CNR
+Mark Ryan			University of Birmingham
+Markulf Kohlweiss	MSR Cambridge and University of Edinburgh
+Mathy Vanhoef		KU Leuven
+Matteo Maffei		TU Vienna
+Matthew Smith		University of Bonn
+Nataliia Bielova	INRIA
+Ralf Sasse			ETH Zurich
+Roberto Guanciale	KTH
+Roberto Di Pietro	Hamad Bin Khalifa University
+Sascha Fahl			Ruhr-University Bochum
 Simson Garfinkel	US Census Bureau
-Stefano Calzavara	Università Ca' Foscari Venezia
-Steve Kremer	INRIA Nancy - Grand Est
-Suman Jana	Columbia University
-Tom Chotia	University of Birmingham
-Ulrike Meyer	RWTH Aachen University
-Vanessa Teague	University of Melbourne
-Vera Rimmer	KU Leuven
-Yajin Zhou	Zhejiang University
-Yeoul Na	UC Irvine
-Yongdae Kim	KAIST
-Yuan Tian	U Virginia
-Zhenkai Liang	National University of Singapore
+Stefan Mangard		TU Graz
+Stefano Calzavara	Universita' Ca' Foscari Venezia
+Steve Kremer		INRIA Nancy - Grand Est
+Steven Murdoch		UCL
+Tom Chothia			University of Birmingham
+Tomer Ahsur			KU Leuven
+Vashek Matyas		Masaryk University Brno
+Yajin Zhou			Zhejiang University of China
+Yasemin Acar		Leibniz University Hannover
+Yeoul Na			UC Irvine
+Vladimiro Sassone	University of Southampton
+Yuval Yarom			University of Adelaide
 Zinaida Benenson	University of Erlangen-Nuremberg

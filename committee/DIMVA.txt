@@ -1,42 +1,41 @@
-Magnus Almgren, Chalmers University of Technology, Sweden
-Elias Athanasopoulos, University of Cyprus, Cyprus
-Davide Balzarotti, Eurecom, France
-Sébastien Bardin, CEA LIST, France
-Gregory Blanc, Télécom SudParis, Institut Polytechnique de Paris, France
-Herbert Bos, Vrije Universiteit Amsterdam, Netherlands
-Juan Caballero, IMDEA Software Institute, Spain
-Lucas Davi, University of Duisburg-Essen, Germany
+Manos Antonakakis, Georgia Institute of Technology, USA
+Marco Balduzzi, Trend Micro Research, Italy
+Leyla Bilge, Symantec Research Labs, France,
+Lorenzo Cavallaro, King’s College London, UK
+Gabriela Ciocarlie, SRI International, USA
+Baris Coskun, Amazon Web Services, USA
+Lorenzo De Carli, Worcester Polytechnic Institute, USA
+Hervé Debar, Télécom SudParis, France
 Sven Dietrich, City University of New York, USA
+Brendan Dolan-Gavitt, NYU, USA
+Adam Doupé, Arizona State University, USA
+Manuel Egele, Boston University, USA
 Ulrich Flegel, Infineon Technologies AG, Germany
-Aurélien Francillon, Eurecom, France
 Yanick Fratantonio, Eurecom, France
-Mariano Graziano, Cisco Talos, USA
-Daniel Gruss, Graz University of Technology, Austria
-Christophe Hauser, University of Southern California, USA
-Alexandros Kapravelos, North Carolina State University, USA
+Giorgio Giacinto, University of Cagliari, Italy
+Neil Gong, Iowa State University, USA
+Thorsten Holz, Ruhr-Universität Bochum, Germany
+Kyu Hyung Lee, University of Georgia, USA
+Sotiris Ioannidis, FORTH, Greece
 Vasileios Kemerlis, Brown University, USA
-Erik van der Kouwe, Vrije Universiteit Amsterdam, Netherlands
-Christian Kreibich, Corelight, USA
-Anil Kurmus, IBM Research, Switzerland
-Pierre Laperdrix, CNRS - Lille University, France
-Pavel Laskov, University of Liechtenstein, Liechtenstein
+Katharina Krombholz, CISPA Helmholtz Center (i.G.), Germany
+Andrea Lanzi, University of Milan, Italy
+Corrado Leita, Lastline, UK
+Zhiqiang Lin, Ohio State University, USA
 Martina Lindorfer, TU Wien, Austria
+Xiapu Luo, The Hong Kong Polytechnic University, HK
+Federico Maggi, Trend Micro Research, Italy
 Michael Meier, University of Bonn and Fraunhofer FKIE, Germany
-Marius Muench, Vrije Universiteit Amsterdam, Netherlands
+Jelena Mirkovic, USC ISI, USA
 Nick Nikiforakis, Stony Brook University, USA
-Yossi Oren, Ben Gurion University, Israel
-Giancarlo Pelegrino, CISPA Helmholtz Center for Information Security, Germany
-Fabio Pierazzi, King’s College London, UK
-Michalis Polychronakis, Stony Brook University, USA
+Anita Nikolich, Illinois Institute of Technology, USA
+Daniela Oliveira, University of Florida, USA
+Christina Poepper, New York University Abu Dhabi, UAE
 Georgios Portokalidis, Stevens Institute of Technology, USA
-Thomas Schreck, Munich University of Applied Sciences, Germany
-Michael Schwarz, Graz University of Technology, Austria
+Christian Rossow, CISPA Helmholtz Center i.G., Germany
 Deborah Shands, SRI International, USA
-Seungwon Shin, KAIST, Korea
-Yan Shoshitaishvili, Arizona State University, USA
-Asia Slowinska, IBM, Netherlands
+Kapil Singh, IBM T.J. Watson Research Center, USA
 Gianluca Stringhini, Boston University, USA
 Juan Tapiador, Universidad Carlos III, Spain
-Sam Thomas, CentraleSupélec, France
-Mathy Vanhoef, New York University Abu Dhabi, USA
-Pierre-Antoine Vervier, Symantec Research Labs, USA
+Heng Yin, University of California Riverside, USA
+Stefano Zanero, Politecnico di Milano, Italy
